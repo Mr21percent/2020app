@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max">내 간은 비브라늄이에요</string>
+    <string name="min">알코올 램프 향만 맡아도 훅 가요</string>
+    <string name="_0">알코올을 입술에 가져다 댈 수는 있어요</string>
+    <string name="_10">맥주 한 잔은 마셔요</string>
+    <string name="_20">소주 반 병은 마셔요</string>
+    <string name="_30">소주 1병은 마시는거 같아요</string>
+    <string name="_40">주변에서는 제일 주량이 쎄요</string>
+</resources>
